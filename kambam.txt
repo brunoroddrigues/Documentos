@@ -1,0 +1,87 @@
+O método Kanban é baseado em seis princípios fundamentais relacionados 
+à gestão de mudanças e prestação de serviços.
+
+Kanban não é um modelo transformacional de grande impacto, mas em vez 
+disso utiliza uma abordagem de mudança evolutiva que procura melhorar 
+processos já estabelecidos de uma forma não disruptiva e melhorá-los 
+continuamente através de colaboração e feedback constantes.
+
+Principios de gestão de mudança
+
+Princípio 1: comece com o que você faz agora.
+
+Kanban oferece a flexibilidade de usar o método em cima de fluxos de trabalho, 
+sistemas e processos existentes, sem interromper o que já está em vigor. 
+O método reconhece que os processos, funções, responsabilidades e títulos 
+existentes têm valor e geralmente merecem ser preservados.
+
+Princípio 2: Concordar em buscar mudanças incrementais e evolutivas.
+
+O método Kanban foi projetado para enfrentar resistência mínima. Ele incentiva 
+pequenas mudanças incrementais e evolutivas contínuas no processo atual, 
+implementando formulários de colaboração e feedback.
+
+
+Princípio 3: Incentivar Atos de Liderança em Todos os Níveis.
+
+A liderança em todos os níveis deriva das percepções cotidianas das pessoas 
+e atua para melhorar sua forma de trabalhar.
+
+Princípios de prestação de serviços
+
+Princípio 1: Foco nas necessidades e expectativas do cliente.
+
+Entregar valor ao cliente deve estar no centro de cada organização. Compreender 
+as necessidades e expectativas dos seus clientes chama a atenção para a qualidade 
+dos serviços prestados e o valor que eles criam.
+
+Princípio 2: Gerenciar o Trabalho.
+
+Gerenciar o trabalho em sua rede de serviços garante que você capacite as habilidades 
+das pessoas para se auto-organizarem em torno do trabalho.
+
+Princípio 3: Revise Regularmente a Rede de Serviços.
+
+Uma vez desenvolvida, uma abordagem orientada a serviços requer avaliação contínua 
+para promover uma cultura de atendimento ao cliente.
+
+As seis práticas Kanban fundamentais para uma implementação bem-sucedida incluem:
+
+- Visualize o fluxo de trabalho.
+
+Para visualizar seu processo com sistema Kanban, você precisará de um quadro com cartões 
+e colunas. Cada coluna do quadro Kanban representa uma etapa do seu fluxo de trabalho. 
+Cada cartão Kanban representa um item de trabalho.
+
+- Limitar o trabalho em andamento.
+
+Uma das principais funções do Kanban é garantir que um número gerenciável de itens ativos 
+esteja em andamento ao mesmo tempo. Se não houver limites de trabalho em andamento , você 
+não estará fazendo Kanban.
+
+- Gerenciar fluxo.
+
+Gerenciar o fluxo significa gerenciar o trabalho, mas não as pessoas. Por fluxo entendemos 
+a movimentação de itens de trabalho através do processo de produção em um ritmo previsível 
+e sustentável.
+
+- Torne as políticas de processo explícitas.
+
+Você não pode melhorar algo que não entende. É por isso que seu processo deve ser claramente 
+definido, publicado e socializado. As pessoas não se associariam e participariam em algo que 
+não acreditam que seria útil.
+ 
+- Implementar ciclos de feedback.
+
+Para equipes e empresas que desejam ser mais ágeis, implementar ciclos de feedback é uma etapa 
+obrigatória. Garantem que as organizações respondem adequadamente a potenciais mudanças e 
+permitem a transferência de conhecimento entre as partes interessadas.
+
+- Melhore colaborativamente.
+
+A maneira de alcançar a melhoria contínua e a mudança sustentável dentro de uma organização é 
+através da implementação colaborativa de mudanças baseadas em métodos, feedback e métricas 
+cientificamente comprovados.
+
+
+
